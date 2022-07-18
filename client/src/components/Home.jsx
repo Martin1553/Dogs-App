@@ -66,7 +66,7 @@ export default function Home() {
 
     return (
         <div className={s.H_container}>
-            <h1 className={s.H_title}>Dogs</h1>
+            <h1 className={s.H_title}>Dogs App</h1>
             <div className={s.H_div}>
                 <NavLink to='/dog'><button className={s.H_btns}>Create new breed</button></NavLink>
                 <button className={s.H_btns} onClick={e => { handleClick(e) }}>Reload breeds</button>
