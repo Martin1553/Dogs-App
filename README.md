@@ -81,7 +81,7 @@ The `client` content was created using: Create React App.
 
 
 #### Credits:
-- [ ] React
-- [ ] Redux
-- [ ] Express
-- [ ] Sequelize - Postgres
+- React
+- Redux
+- Express
+- Sequelize - Postgres
