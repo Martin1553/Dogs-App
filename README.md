@@ -1,9 +1,9 @@
 
 
-# Individual Project - Henry Dogs
+# Individual Project - Dogs App
 
 
-## Objetivos del Proyecto
+## Project Objectives
 
 - Build an App using React, Redux, Node and Sequelize.
 - Affirm and connect the concepts learned in the race.
