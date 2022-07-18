@@ -1,0 +1,48 @@
+.D_container {
+    background-image: url('https://i.pinimg.com/originals/a2/7b/b3/a27bb3581cab9fecc4bf0e92fad685dd.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding-top: 40px;
+}
+
+.D_div {
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+.D_title {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+}
+
+.D_name {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.D_btn {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: 90px;
+}
+
+.D_p {
+    margin-top: 100px;
+    color: white;
+}

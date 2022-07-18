@@ -1,0 +1,20 @@
+.LP_btn {
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 300px;
+}
+
+.LP_container {
+    background-image: url('https://i.pinimg.com/originals/a2/7b/b3/a27bb3581cab9fecc4bf0e92fad685dd.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.LP_title {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 70px;
+    margin-top:0px;
+    padding: 95px;
+}

@@ -1,0 +1,72 @@
+.DF_container {
+    background-image: url('https://i.pinimg.com/originals/a2/7b/b3/a27bb3581cab9fecc4bf0e92fad685dd.jpg');
+    /* background-attachment: fixed; */
+    background-attachment: scroll;
+    height: 119vh;
+    /* background-size: cover; */
+
+}
+
+.DF_form {
+    border: 1px solid white;
+    margin: 40px;
+    padding-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
+}
+
+.DF_title {
+    margin: 0px;
+    padding-top: 40px ;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+
+}
+
+.DF_divs {
+    text-align: center;
+    margin: 50px;
+}
+
+.DF_labels {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.DF_ul {
+    background-color: white;
+    color: black;
+    margin: 40px;
+    margin-left: 400px;
+    margin-right: 400px;
+    list-style: none;
+    border: 1px solid white;
+}
+
+.DF_btn_create {
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.DF_btn_back {
+    margin-top: 30px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-bottom: 28px;
+}
+
+.DF_errors {
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    color: red;
+}
+
+.DF_p {
+    color: white;
+}

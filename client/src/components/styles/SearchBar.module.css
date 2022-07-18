@@ -1,0 +1,14 @@
+
+.SB_btns {
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 3px;
+}
+
+.SB_input {
+    font-size: 15px;
+    padding-bottom: 0px;
+}

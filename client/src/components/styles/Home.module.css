@@ -1,0 +1,49 @@
+.H_btns {
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+.H_container {
+    background-image: url('https://i.pinimg.com/originals/a2/7b/b3/a27bb3581cab9fecc4bf0e92fad685dd.jpg');
+    background-size: cover;
+}
+
+.H_div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.H_div_select {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-attachment: fixed;
+    margin-top: 20px;
+}
+
+.H_divcard {
+    display:inline-flex;
+    padding: 10px;
+    margin: 20px;
+}
+
+.H_title {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 70px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+
+
+.H_selects{
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

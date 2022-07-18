@@ -1,0 +1,19 @@
+.C_container {
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 50vh;
+    width: 30vw;
+    box-shadow: 15px 15px 55px 20px rgba(0,0,0,0.79);
+}
+
+.C_name {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+    margin: 20px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
