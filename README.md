@@ -1,14 +1,9 @@
-<p align='left'>
-    <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
 
-# Individual Project - Henry Dogs
 
-<p align="left">
-  <img height="200" src="./dog.png" />
-</p>
+# Individual Project - Dogs App
 
-## Objetivos del Proyecto
+
+## Project Objectives
 
 - Build an App using React, Redux, Node and Sequelize.
 - Affirm and connect the concepts learned in the race.
@@ -81,7 +76,7 @@ The `client` content was created using: Create React App.
 
 
 #### Credits:
-- [ ] React
-- [ ] Redux
-- [ ] Express
-- [ ] Sequelize - Postgres
+- React
+- Redux
+- Express
+- Sequelize - Postgres
